@@ -1,7 +1,7 @@
 import hashlib
 from base64 import b64decode
 
-hash_string = 'Y2FybG9zOjQ2Zjk0YzhkZTE0ZmIzNjY4MDg1MDc2OGZmMWI3ZjJh'
+hash_string = input("Put the cookie you want to decode and also update the passwords.txt file")
 list1 = []
 
 # Read file contents into list1
